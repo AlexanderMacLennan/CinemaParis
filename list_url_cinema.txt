@@ -1,0 +1,12 @@
+https://www.mk2.com/salle/mk2-bastille-beaumarchais-fg-st-antoine
+
+Fais un environnement virtuel avec UV et Python 3 pour faire du scrapping. Tu vas commencer par installer Requests.
+Fais une requête avec le module Requests vers @https://www.mk2.com/salle/mk2-bastille-beaumarchais-fg-st-antoine , récupère le HTML et sauvegarde le sur le disque dans le dossier d'execution.
+Change également le user agent pour indiquer qu'on fait du scrapping et indique l'adresse mail ADRESSE@MAIL.COM
+
+# URL avec tous les films dispos dans tous les MK2
+https://www.mk2.com/ile-de-france/films
+
+J'ai remarqué qu'on peut récupérer toutes les données via un endpoint. Ca récupère toutes les informations du film en JSON dans le "pageContent". Modifie le script pour l'appeler maintenant main.py et pour aller récupérer ces données contenues dans "films" et les stocker dans un fichier JSON.
+
+L'endpoint en question est @https://www.mk2.com/_next/data/mOVXSxj35n-aMKdxIktJ2/ile-de-france/films/tous-les-films.json?category=tous-les-films&cinemaGroupId=ile-de-france
