@@ -9,7 +9,8 @@
     "director": {
       "firstName": "Hong",
       "lastName": "Sangsoo"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/la-voyageuse"
   },
   {
     "id": "HO00004001",
@@ -21,7 +22,8 @@
     "director": {
       "firstName": "Tim",
       "lastName": "Fehlbaum"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/5-septembre"
   },
   {
     "id": "HO00004013",
@@ -33,7 +35,8 @@
     "director": {
       "firstName": "Jesse",
       "lastName": "Eisenberg"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/a-real-pain"
   },
   {
     "id": "HO00001522",
@@ -45,7 +48,8 @@
     "director": {
       "firstName": "Justine ",
       "lastName": "Triet"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/anatomie-dune-chute-mk2-institut"
   },
   {
     "id": "HO00003049",
@@ -57,7 +61,8 @@
     "director": {
       "firstName": "Sean",
       "lastName": "Baker"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/anora"
   },
   {
     "id": "HO00003917",
@@ -69,7 +74,8 @@
     "director": {
       "firstName": "Claire",
       "lastName": "Simon"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/apprendre"
   },
   {
     "id": "HO00003916",
@@ -81,7 +87,8 @@
     "director": {
       "firstName": "Dea",
       "lastName": "Kulumbegashvili"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/april"
   },
   {
     "id": "HO00003820",
@@ -93,7 +100,8 @@
     "director": {
       "firstName": "Werner",
       "lastName": "Herzog"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/au-coeur-des-volcans"
   },
   {
     "id": "HO00003648",
@@ -105,7 +113,8 @@
     "director": {
       "firstName": "Marcelo",
       "lastName": "Caetano"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/baby"
   },
   {
     "id": "HO00003928",
@@ -117,7 +126,8 @@
     "director": {
       "firstName": "Halina",
       "lastName": "Reijn"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/babygirl"
   },
   {
     "id": "HO00003971",
@@ -129,7 +139,8 @@
     "director": {
       "firstName": "Michael",
       "lastName": "Gracey"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/better-man"
   },
   {
     "id": "HO00000484",
@@ -141,7 +152,8 @@
     "director": {
       "firstName": "Stephen",
       "lastName": "Daldry"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/billy-elliot-mk2-institut"
   },
   {
     "id": "HO00002985",
@@ -153,7 +165,8 @@
     "director": {
       "firstName": "Andrea",
       "lastName": "Arnold"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/bird"
   },
   {
     "id": "HO00004019",
@@ -165,7 +178,8 @@
     "director": {
       "firstName": "David",
       "lastName": "Lynch"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/blue-velvet"
   },
   {
     "id": "HO00004020",
@@ -177,7 +191,8 @@
     "director": {
       "firstName": "Akaki",
       "lastName": "Popkhadze"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/brule-le-sang"
   },
   {
     "id": "HO00004042",
@@ -189,7 +204,8 @@
     "director": {
       "firstName": "Julius",
       "lastName": "Onah"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/captain-america-brave-new-world"
   },
   {
     "id": "HO00003790",
@@ -201,7 +217,8 @@
     "director": {
       "firstName": "Kelly ",
       "lastName": "Reichardt"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/certaines-femmes-la-sororite-a-l-oeuvre-mk2-institut"
   },
   {
     "id": "HO00004035",
@@ -213,7 +230,8 @@
     "director": {
       "firstName": "Drew",
       "lastName": "Hancock"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/companion"
   },
   {
     "id": "HO00003814",
@@ -225,7 +243,8 @@
     "director": {
       "firstName": "Edward",
       "lastName": "Berger"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/conclave"
   },
   {
     "id": "HO00004030",
@@ -234,7 +253,8 @@
     "runTime": 144,
     "graphicUrl": "https://srv-web-vista.mk2.com/CDN/media/entity/get/FilmPosterGraphic/HO00004030",
     "openingDate": "2025-02-25T23:00:00.000Z",
-    "director": null
+    "director": null,
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/creation-of-the-gods-ii-demon-force"
   },
   {
     "id": "HO00003885",
@@ -246,7 +266,8 @@
     "director": {
       "firstName": "Jahangir",
       "lastName": "Salehi"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/dangerous-men-le-genie-incompris-mk2-institut"
   },
   {
     "id": "HO00003932",
@@ -258,7 +279,8 @@
     "director": {
       "firstName": "Todd",
       "lastName": "Haynes"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/dark-waters-informer-denoncer-prendre-conscience-mk2-institut"
   },
   {
     "id": "HO00004012",
@@ -270,7 +292,8 @@
     "director": {
       "firstName": "Jon",
       "lastName": "Nguyen"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/david-lynch-the-art-life"
   },
   {
     "id": "HO00004063",
@@ -282,7 +305,8 @@
     "director": {
       "firstName": "Chen",
       "lastName": "Sicheng"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/detective-chinatown-1900"
   },
   {
     "id": "HO00004024",
@@ -294,7 +318,8 @@
     "director": {
       "firstName": "David",
       "lastName": "Lynch"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/elephant-man"
   },
   {
     "id": "HO00003786",
@@ -306,7 +331,8 @@
     "director": {
       "firstName": "Neill",
       "lastName": "Blomkamp"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/elysium-l-inegalite-est-elle-une-fatalite-mk2-institut"
   },
   {
     "id": "HO00002986",
@@ -318,7 +344,8 @@
     "director": {
       "firstName": "Jacques",
       "lastName": "Audiard"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/emilia-perez"
   },
   {
     "id": "HO00002990",
@@ -330,7 +357,8 @@
     "director": {
       "firstName": "Emmanuel",
       "lastName": "Courcol"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/en-fanfare"
   },
   {
     "id": "HO00004011",
@@ -342,7 +370,8 @@
     "director": {
       "firstName": "David",
       "lastName": "Lynch"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/eraserhead"
   },
   {
     "id": "HO00003754",
@@ -354,7 +383,8 @@
     "director": {
       "firstName": "Raoul",
       "lastName": "Peck"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/ernest-cole-photographe"
   },
   {
     "id": "HO00003933",
@@ -366,7 +396,8 @@
     "director": {
       "firstName": "Orson",
       "lastName": "Welles"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/f-for-fake-art-de-l-illusion-et-illusion-de-l-art-mk2-institut"
   },
   {
     "id": "HO00003784",
@@ -378,7 +409,8 @@
     "director": {
       "firstName": "Spike",
       "lastName": "Jonze"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/her-peut-on-fabriquer-l-amour-mk2-institut"
   },
   {
     "id": "HO00003876",
@@ -390,7 +422,8 @@
     "director": {
       "firstName": "Alice",
       "lastName": "Rohrwacher"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/heureux-comme-lazzaro-a-quoi-sert-la-sociologie-mk2-institut"
   },
   {
     "id": "HO00003910",
@@ -402,7 +435,8 @@
     "director": {
       "firstName": "Koya",
       "lastName": "Kamura"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/hiver-a-sokcho"
   },
   {
     "id": "HO00003978",
@@ -414,7 +448,8 @@
     "director": {
       "firstName": "Antoine",
       "lastName": "Boutet"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/ici-brazza"
   },
   {
     "id": "HO00001368",
@@ -426,7 +461,8 @@
     "director": {
       "firstName": "Morten",
       "lastName": "Tyldum"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/imitation-game-la-science-c-est-politique-mk2-institut"
   },
   {
     "id": "HO00003915",
@@ -438,7 +474,8 @@
     "director": {
       "firstName": "Laura",
       "lastName": "Piani"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/jane-austen-a-gache-ma-vie"
   },
   {
     "id": "HO00003835",
@@ -450,7 +487,8 @@
     "director": {
       "firstName": "Walter",
       "lastName": "Salles"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/je-suis-toujours-la"
   },
   {
     "id": "HO00003912",
@@ -462,7 +500,8 @@
     "director": {
       "firstName": "Delphine",
       "lastName": "Coulin"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/jouer-avec-le-feu"
   },
   {
     "id": "HO00003079",
@@ -474,7 +513,8 @@
     "director": {
       "firstName": "Leonardo",
       "lastName": "van Dijl"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/julie-se-tait"
   },
   {
     "id": "HO00003909",
@@ -486,7 +526,8 @@
     "director": {
       "firstName": "John",
       "lastName": "Crowley"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/l-amour-au-present"
   },
   {
     "id": "HO00003015",
@@ -498,7 +539,8 @@
     "director": {
       "firstName": "Boris",
       "lastName": "Lojkine"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/histoire-souleymane"
   },
   {
     "id": "HO00003785",
@@ -510,7 +552,8 @@
     "director": {
       "firstName": "Wes",
       "lastName": "Anderson"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/l-ile-aux-chiens-l-engrenage-de-la-haine-mk2-institut"
   },
   {
     "id": "HO00003931",
@@ -522,7 +565,8 @@
     "director": {
       "firstName": "Pedro",
       "lastName": "Almodóvar"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/la-chambre-d-a-cote"
   },
   {
     "id": "HO00002921",
@@ -534,7 +578,8 @@
     "director": {
       "firstName": "Eryk",
       "lastName": "Rocha"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/la-chute-du-ciel"
   },
   {
     "id": "HO00003967",
@@ -546,7 +591,8 @@
     "director": {
       "firstName": "Agnès",
       "lastName": "de Sacy"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/la-fille-d-un-grand-amour"
   },
   {
     "id": "HO00004047",
@@ -558,7 +604,8 @@
     "director": {
       "firstName": "Antoine",
       "lastName": "Chevrollier"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/la-pampa"
   },
   {
     "id": "HO00004036",
@@ -570,7 +617,8 @@
     "director": {
       "firstName": "Robert ",
       "lastName": "Guédiguian"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/la-pie-voleuse"
   },
   {
     "id": "HO00003884",
@@ -582,7 +630,8 @@
     "director": {
       "firstName": "Greydon",
       "lastName": "Clark"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/le-clandestin-les-effets-speciaux-tout-un-art-mk2-institut"
   },
   {
     "id": "HO00003092",
@@ -594,7 +643,8 @@
     "director": {
       "firstName": "Alexandre",
       "lastName": "De La Patellière"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/le-comte-de-monte-cristo"
   },
   {
     "id": "HO00003970",
@@ -606,7 +656,8 @@
     "director": {
       "firstName": "Fabrice",
       "lastName": "du Welz"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/le-dossier-maldoror"
   },
   {
     "id": "HO00003886",
@@ -618,7 +669,8 @@
     "director": {
       "firstName": "Paul",
       "lastName": "Boujenah"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/le-faucon-de-l-importance-du-credible-au-cinema-mk2-institut"
   },
   {
     "id": "HO00003863",
@@ -630,7 +682,8 @@
     "director": {
       "firstName": "Naoko",
       "lastName": "Ogigami"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/le-jardin-zen"
   },
   {
     "id": "HO00003969",
@@ -642,7 +695,8 @@
     "director": {
       "firstName": "David ",
       "lastName": "Oelhoffen"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/le-quatrieme-mur"
   },
   {
     "id": "HO00003005",
@@ -654,7 +708,8 @@
     "director": {
       "firstName": "Julien",
       "lastName": "Colonna"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/le-royaume"
   },
   {
     "id": "HO00003875",
@@ -666,7 +721,8 @@
     "director": {
       "firstName": "Michael ",
       "lastName": "Mann"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/thief-l-avenir-contraint-mk2-institut"
   },
   {
     "id": "HO00002967",
@@ -678,7 +734,8 @@
     "director": {
       "firstName": "Roberto",
       "lastName": "Minervini"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/les-damnes"
   },
   {
     "id": "HO00002988",
@@ -690,7 +747,8 @@
     "director": {
       "firstName": "Zhangke ",
       "lastName": "Jia"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/les-feux-sauvages"
   },
   {
     "id": "HO00003788",
@@ -702,7 +760,8 @@
     "director": {
       "firstName": "Claude",
       "lastName": "Chabrol"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/madame-bovary-les-histoires-d-amour-finissent-mal-mk2-institut"
   },
   {
     "id": "HO00004060",
@@ -714,7 +773,8 @@
     "director": {
       "firstName": "Émilie",
       "lastName": "Brisavoine"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/maman-dechire"
   },
   {
     "id": "HO00003929",
@@ -726,7 +786,8 @@
     "director": {
       "firstName": "Adam",
       "lastName": "Elliot"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/memoires-d-un-escargot"
   },
   {
     "id": "HO00003571",
@@ -738,7 +799,8 @@
     "director": {
       "firstName": "Mika",
       "lastName": "Tard"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/mika-ex-machina"
   },
   {
     "id": "HO00003861",
@@ -750,7 +812,8 @@
     "director": {
       "firstName": "Barry",
       "lastName": "Jenkins"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/mufasa-le-roi-lion"
   },
   {
     "id": "HO00004022",
@@ -762,7 +825,8 @@
     "director": {
       "firstName": "David",
       "lastName": "Lynch"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/mulholland-drive"
   },
   {
     "id": "HO00003870",
@@ -774,7 +838,8 @@
     "director": {
       "firstName": "Henry",
       "lastName": "Hathaway"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/niagara-marilyn-monroe-derriere-l-icone-mk2-institut"
   },
   {
     "id": "HO00003840",
@@ -786,7 +851,8 @@
     "director": {
       "firstName": "Robert",
       "lastName": "Eggers"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/nosferatu"
   },
   {
     "id": "HO00002162",
@@ -798,7 +864,8 @@
     "director": {
       "firstName": "Simone",
       "lastName": "Bozzelli"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/patagonia"
   },
   {
     "id": "HO00003945",
@@ -810,7 +877,8 @@
     "director": {
       "firstName": "Robert",
       "lastName": "Bresson"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/quatre-nuits-d-un-reveur"
   },
   {
     "id": "HO00001873",
@@ -822,7 +890,8 @@
     "director": {
       "firstName": "Tina",
       "lastName": "Satter"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/reality-mk2-institut"
   },
   {
     "id": "HO00001594",
@@ -834,7 +903,8 @@
     "director": {
       "firstName": "Howard",
       "lastName": "Hawks"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/rio-bravo-mk2-institut"
   },
   {
     "id": "HO00003879",
@@ -846,7 +916,8 @@
     "director": {
       "firstName": "Guillaume ",
       "lastName": "Nicloux"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/sarah-bernhardt-la-divine"
   },
   {
     "id": "HO00003975",
@@ -858,7 +929,8 @@
     "director": {
       "firstName": "Pierre",
       "lastName": "Creton"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/sept-promenades-avec-mark-brown"
   },
   {
     "id": "HO00003012",
@@ -870,7 +942,8 @@
     "director": {
       "firstName": "Ariane",
       "lastName": "Labed"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/september-says"
   },
   {
     "id": "HO00003789",
@@ -882,7 +955,8 @@
     "director": {
       "firstName": "Marie-Claude",
       "lastName": "Treilhou"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/simone-barbes-ou-la-vertu-queer-vs-nouvelle-vague-mk2-institut"
   },
   {
     "id": "HO00004034",
@@ -894,7 +968,8 @@
     "director": {
       "firstName": "Greg",
       "lastName": "Kwedar"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/sing-sing"
   },
   {
     "id": "HO00003913",
@@ -906,7 +981,8 @@
     "director": {
       "firstName": "Jean-François",
       "lastName": "Laguionie"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/slocum-et-moi"
   },
   {
     "id": "HO00003903",
@@ -918,7 +994,8 @@
     "director": {
       "firstName": "Arnaud",
       "lastName": "Desplechin"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/spectateurs"
   },
   {
     "id": "HO00004002",
@@ -930,7 +1007,8 @@
     "director": {
       "firstName": "Tim",
       "lastName": "Fehlbaum"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/the-brutalist"
   },
   {
     "id": "HO00003323",
@@ -942,7 +1020,8 @@
     "director": {
       "firstName": "Coralie",
       "lastName": "Fargeat"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/the-substance"
   },
   {
     "id": "HO00004021",
@@ -954,7 +1033,8 @@
     "director": {
       "firstName": "Houda",
       "lastName": "Benyamina"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/toutes-pour-une"
   },
   {
     "id": "HO00001159",
@@ -966,7 +1046,8 @@
     "director": {
       "firstName": "David",
       "lastName": "Lynch"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/twin-peaks-fire-walk-with-me"
   },
   {
     "id": "HO00003914",
@@ -978,7 +1059,8 @@
     "director": {
       "firstName": "Maxime",
       "lastName": "Caperan"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/un-monde-violent"
   },
   {
     "id": "HO00003988",
@@ -990,7 +1072,8 @@
     "director": {
       "firstName": "James",
       "lastName": "Mangold"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/un-parfait-inconnu"
   },
   {
     "id": "HO00001479",
@@ -1002,7 +1085,8 @@
     "director": {
       "firstName": "Pierre",
       "lastName": "Creton"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/un-prince"
   },
   {
     "id": "HO00003006",
@@ -1014,7 +1098,8 @@
     "director": {
       "firstName": "Louise",
       "lastName": "Courvoisier"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/vingt-dieux"
   },
   {
     "id": "HO00001801",
@@ -1026,7 +1111,8 @@
     "director": {
       "firstName": "Sofia",
       "lastName": "Coppola"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/virgin-suicides-mk2-institut"
   },
   {
     "id": "HO00003582",
@@ -1038,7 +1124,8 @@
     "director": {
       "firstName": "Mel",
       "lastName": "Gibson"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/vol-a-haut-risque"
   },
   {
     "id": "HO00003869",
@@ -1050,7 +1137,8 @@
     "director": {
       "firstName": "Roberto",
       "lastName": "Rossellini"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/voyage-en-italie-mk2-institut"
   },
   {
     "id": "HO00002970",
@@ -1062,7 +1150,8 @@
     "director": {
       "firstName": "Rúnar",
       "lastName": "Rúnarsson"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/when-the-light-breaks"
   },
   {
     "id": "HO00003703",
@@ -1074,6 +1163,7 @@
     "director": {
       "firstName": "Jon M.",
       "lastName": "Chu"
-    }
+    },
+    "detailUrl": "https://www.mk2.com/ile-de-france/film/wicked"
   }
 ]

@@ -9,3 +9,7 @@ Les informations qui m'intéressent sont :
 - dans le "cast" le "firstName" et "lastName" pour le "personType" égal à "Director"
 
 Les autres informations sont a supprimer du JSON.
+
+- récupérer aussi le slug 
+
+je souhaite ajouté pour chaque film, une donnée 'detailrul' dans le format : https://www.mk2.com/ile-de-france/film/ + slug

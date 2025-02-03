@@ -27,9 +27,10 @@ def filter_movie_data(movie):
         'title': movie.get('title'),
         'synopsis': movie.get('synopsis'),
         'runTime': movie.get('runTime'),
-        'graphicUrl': movie.get('icon'),  # Renommé icon en graphicUrl
+        'graphicUrl': movie.get('graphicUrl'),
         'openingDate': movie.get('openingDate'),
-        'director': get_director(movie.get('cast', []))
+        'director': get_director(movie.get('cast', [])),
+        'detailUrl': f"https://www.mk2.com/ile-de-france/film/{movie.get('slug')}"
     }
 
 try:
@@ -46,7 +47,7 @@ try:
     
     # Générer le nom du fichier avec la date et l'heure
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-    filename = f'mk2_films_{timestamp}.json'
+    filename = f'mk2_films_filtered_{timestamp}.json'
     
     # Sauvegarder les données filtrées des films dans un fichier JSON
     with open(filename, 'w', encoding='utf-8') as f:
