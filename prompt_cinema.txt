@@ -1,0 +1,11 @@
+Je veux récupérer les informations principales des films leurs horaires. Pour les informations principales, elles sont déjà disponibles dans le JSON.Je veux uniquement récupérer certaines informations. Pour l'instant, on modifie le code script pour filtrer les données et ne garder que celles qui nous intéressent. 
+Les informations qui m'intéressent sont :
+- id
+- title
+- synopsis
+- runTime
+- graphicUrl
+- openingDate
+- dans le "cast" le "firstName" et "lastName" pour le "personType" égal à "Director"
+
+Les autres informations sont a supprimer du JSON.
